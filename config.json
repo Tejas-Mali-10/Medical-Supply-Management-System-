@@ -1,0 +1,17 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost/medical",
+    "proud_uri": "mysql://root:@localhost/medical",
+    "blog_name": "MSM",
+    "headname": "MEDICAL SUPPLY MANAGEMENT",
+    "gmail-user":"nmmahajan777@gmail.com",
+    "user": "test",
+    "user1":"test1",
+    "password": "test",
+    "password1":"test1",
+    "login_image": "aple.jpg"
+
+  }
+}
